@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="REST Project 2.https&amp;colon;&amp;sol;&amp;sol;api.github.com Test Suite" tests="1" failures="0" errors="0" time="1.415" package="REST Project 2" id="1">
+  <testsuite name="REST Project 2.https&amp;colon;&amp;sol;&amp;sol;api.github.com Test Suite" time="1.595" tests="1" failures="0" errors="0" package="REST Project 2" id="1">
     <properties>
       <property name="install4j.launcherId" value="376"/>
       <property name="java.specification.version" value="17"/>
@@ -61,11 +61,11 @@
       <property name="loadui.headless" value="false"/>
       <property name="file.encoding" value="Cp1252"/>
       <property name="sun.net.http.allowRestrictedHeaders" value="true"/>
-      <property name="jnidispatch.path" value="C:\Users\0043T7~1\AppData\Local\Temp\jna-1636955797\jna9688071995154921901.dll"/>
+      <property name="jnidispatch.path" value="C:\Users\0043T7~1\AppData\Local\Temp\jna-1636955797\jna13693832584569090511.dll"/>
       <property name="soapui.ext.libraries" value="C:\Program Files\SmartBear\ReadyAPI-3.46.0/bin/ext"/>
       <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
       <property name="java.vendor.version" value="Temurin-17.0.5+8"/>
-      <property name="exe4j.semaphoreName" value="Local\c:_program_files_smartbear_readyapi-3.46.0_bin_readyapi.exe0"/>
+      <property name="exe4j.semaphoreName" value="c:_program_files_smartbear_readyapi-3.46.0_bin_readyapi.exe1"/>
       <property name="install4j.appDir" value="C:\Program Files\SmartBear\ReadyAPI-3.46.0\"/>
       <property name="jna.loaded" value="true"/>
       <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
@@ -88,6 +88,6 @@
       <property name="install4j.swt" value="false"/>
       <property name="soapui.properties" value="soapui.properties"/>
     </properties>
-    <testcase name="Test Case" time="1.415"/>
+    <testcase name="Test Case" time="1.239"/>
   </testsuite>
 </testsuites>
